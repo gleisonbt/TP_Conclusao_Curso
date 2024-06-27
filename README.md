@@ -1,4 +1,4 @@
-# TP_Conclus-o_Curso
+# TP_Conclusao_Curso
 
 Membros do Grupo:
 
