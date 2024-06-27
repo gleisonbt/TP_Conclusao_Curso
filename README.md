@@ -2,11 +2,11 @@
 
 Membros do Grupo:
 
-Weidyane
-Victor Cerdeira
-Vitor Santiago
-Cristian
-Maria Eduarda Silva
-Guilherme Santos
-Vinicius Marques
-Wesley Pereira
+Weidyane;
+Victor Cerdeira;
+Vitor Santiago;
+Cristian;
+Maria Eduarda Silva;
+Guilherme Santos;
+Vinicius Marques;
+Wesley Pereira.
